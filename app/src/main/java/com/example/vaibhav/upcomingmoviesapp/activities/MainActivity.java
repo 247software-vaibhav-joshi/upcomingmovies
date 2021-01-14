@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        getData();
+        getData(); //this method will be called to load the data..................
     }
 
     private void getData() {
